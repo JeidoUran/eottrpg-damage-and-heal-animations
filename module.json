@@ -1,0 +1,26 @@
+{
+  "id": "eottrpg-damage-and-heal-animations",
+  "version": "1.0.0",
+  "title": "EOTTRPG Damage and Heal Animations",
+  "description": "Small module that handles animations on damaging or healing an actor for the Etrian Odyssey TTRPG.",
+  "authors": [
+    { "name": "Jeido_Uran",
+    "discord": "jeido_uran"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "scripts": [],
+  "esmodules": ["./src/main.js"],
+  "relationships": {
+    "requires": [
+        {
+            "id": "socketlib",
+            "type": "module"
+        }
+    ]
+},
+"socket": true
+}
