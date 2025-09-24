@@ -15,7 +15,8 @@
   "scripts": [],
   "esmodules": ["./scripts/damage-and-heal-animations.js",
                 "./scripts/swap-orders.js",
-                "./scripts/codex-buttons.js"],
+                "./scripts/codex-buttons.js",
+                "./scripts/token-rings.js"],
   "relationships": {
     "systems": [
       {
