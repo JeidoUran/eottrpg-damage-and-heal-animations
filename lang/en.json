@@ -4,5 +4,11 @@
   "CODEX.ViewRulesCodex": "View Rules",
   "CODEX.ViewRaceCodex": "View Races",
   "CODEX.ViewClassCodex": "View Classes",
-  "CODEX.ViewCharaCodex": "View Characters"
+  "CODEX.ViewCharaCodex": "View Characters",
+  
+  "UNION.Settings": {
+    "Display": {
+      "Name": "Display Union Gauge"
+    }
+  }
 }

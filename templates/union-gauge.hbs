@@ -1,0 +1,15 @@
+<div class="meter-group resource-bar custom-resource-bar">
+  <div class="label roboto-condensed-upper">
+    <span>Union</span>
+  </div>
+
+  <div class="meter progress animation-{{animation}}" role="meter" aria-valuemin="0" aria-valuenow="{{value}}"
+    aria-valuemax="{{max}}"
+    style="--bar-animation-name: {{animation}}; --bar-percentage: {{percent}}%; --bar-first-color: {{barFirstColor}}; --bar-second-color: {{barSecondColor}};">
+    <div class="label">
+      <span class="value">{{value}}</span>
+      <span class="separator">/</span>
+      <span class="max">{{max}}</span>
+    </div>
+  </div>
+</div>

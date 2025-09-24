@@ -4,5 +4,11 @@
   "CODEX.ViewRulesCodex": "Consulter les règles",
   "CODEX.ViewRaceCodex": "Consulter l'index des races",
   "CODEX.ViewClassCodex": "Consulter l'index des classes",
-  "CODEX.ViewCharaCodex": "Consulter l'index des personnages"
+  "CODEX.ViewCharaCodex": "Consulter l'index des personnages",
+
+  "UNION.Settings": {
+    "Display": {
+      "Name": "Afficher la jauge d'Union"
+    }
+  }
 }
