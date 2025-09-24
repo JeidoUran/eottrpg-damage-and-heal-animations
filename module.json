@@ -13,8 +13,9 @@
     "verified": "13"
   },
   "scripts": [],
-  "esmodules": ["./src/damage-and-heal-animations.js",
-                "./src/swap-orders.js"],
+  "esmodules": ["./scripts/damage-and-heal-animations.js",
+                "./scripts/swap-orders.js",
+                "./scripts/codex-buttons.js"],
   "relationships": {
     "systems": [
       {
@@ -33,5 +34,17 @@
         }
     ]
 },
-"socket": true
+"socket": true,
+"languages": [
+  {
+    "lang": "en",
+    "name": "English",
+    "path": "lang/en.json"
+  },
+  {
+    "lang": "fr",
+    "name": "Français",
+    "path": "lang/fr.json"
+  }
+]
 }
