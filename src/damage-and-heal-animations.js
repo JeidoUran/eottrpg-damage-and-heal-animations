@@ -1,5 +1,5 @@
 // main.js
-const MODULE_ID = "eottrpg-damage-and-heal-animations";
+const MODULE_ID = "eottrpg-utilities";
 
 let socket;
 
