@@ -92,6 +92,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  width: auto;
 }
 
 .custom-resource-bar .meter {
